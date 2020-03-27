@@ -10,6 +10,7 @@ export default StyleSheet.create({
   },
 
   header: {
+    paddingBottom: 8,
     flexDirection: 'row',
     justifyContent: 'space-between',
     alignItems: 'center',
@@ -19,7 +20,7 @@ export default StyleSheet.create({
     padding: 24,
     borderRadius: 8,
     marginBottom: 16,
-    marginTop: 48,
+    marginTop: 16,
     backgroundColor: '#fff',
   },
 
