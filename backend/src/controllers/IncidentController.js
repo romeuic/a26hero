@@ -15,6 +15,7 @@ module.exports = {
         'incidents.*',
         'ongs.name',
         'ongs.whatsapp',
+        'ongs.email',
         'ongs.city',
         'ongs.uf',
       ])
